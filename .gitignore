@@ -1,3 +1,3 @@
 #gitigonre
 node_modules
-./test.md
+*.md
