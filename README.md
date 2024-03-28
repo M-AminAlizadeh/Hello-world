@@ -1,7 +1,4 @@
-<a name="readme-top"></a>
-<!-- TABLE OF CONTENTS -->
-
-# 📗 Table of Contents
+# 📗 Table of Contents <a name="readme-top"></a>
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
@@ -10,13 +7,10 @@
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
+  - [Deployment](#deployment)
 - [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
@@ -24,20 +18,34 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello World] <a name="about-project"></a>
+# 📖 About the Project <a name="about-project"></a>
+
+This project is for learning purposes only.
+
+The reason for this is to learn about fundamental concepts of development like:
+
+- Branching
+- Linters
+- GitHub Actions
+- GitHub flow
+- Pull-request
+- How to write a documentation
+- gitignore
+- GitHub pages deployment
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-- HTML
-- CSS
+- HTML5
+- CSS3
 
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-- **[Using linters]**
+- **Using Linters**
+- **GitHub Actions**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -45,7 +53,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo](https://github.com/M-AminAlizadeh/Hello-world)
+- [Live Demo](https://m-aminalizadeh.github.io/Hello-world/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -57,27 +65,43 @@ To get a local copy up and running, follow these steps.
 
 ### Setup
 
-Clone this repository to your local machine
+Clone this repository to your local machine using this command:
 
+```bash
+  git clone https://github.com/M-AminAlizadeh/Hello-world.git
+  cd Hello-world
+```
 
 ### Install
 
-<!-- Install this project with: -->
+Install this project with:
+
+```bash
+  npm install
+```
+
+Be sure you installed the node.js on your system so to find out follow these steps:
+
+1. open your system terminal and enter the below command:
+
+```bash
+  node --version
+  npm --version
+```
+
+1. if you couldn't find that means you don't have them on your system then visit
+[Node](https://nodejs.org/en/download) website and download it on your system.
 
 ### Usage
 
-<!-- To run the project, execute the following command: -->
+To run the project, just open the `index.html` file on your browser.
 
+### Deployment <a name="deployment"></a>
 
+You can deploy this project using various platforms like:
 
-### Run tests
-
-<!-- To run tests, run the following command: -->
-
-### Deployment
-
-<!-- You can deploy this project using: -->
-
+- [Vercel](https://vercel.com/)
+- [Netlify](https://www.netlify.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -87,19 +111,10 @@ Clone this repository to your local machine
 
 👤 **Amin Alizadeh**
 
-- GitHub: [Github](https://github.com/M-AminAlizadeh)
-- Twitter: [Twitter](https://twitter.com/AMINALI69393891)
-- LinkedIn: [Linkedin](https://www.linkedin.com/in/m-amin-alizadeh-60a20b1b0/)
+- GitHub: [GitHub](https://github.com/M-AminAlizadeh)
+- Linkedin: [Linkedin](https://www.linkedin.com/in/m-amin-alizadeh/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FUTURE FEATURES -->
-
-<!-- ## 🔭 Future Features <a name="future-features"></a>
-
-- [ ] **[new_feature_1]** -->
-
-<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 <!-- CONTRIBUTING -->
 
@@ -113,15 +128,17 @@ Feel free to check the [issues page](https://github.com/M-AminAlizadeh/Hello-wor
 
 <!-- SUPPORT -->
 
-## ⭐️ Show your support <a name="support"></a>
-If you like this project don't forget to star it.
+## <a href="#support">⭐️ Show your support </a>
+
+If you like this project don't forget to give it a ⭐️star.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-I would like to thank Microverse
+
+I would like to thank Microverse for providing this simple and beneficial idea.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -129,6 +146,6 @@ I would like to thank Microverse
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is using [MIT](./LICENSE).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
